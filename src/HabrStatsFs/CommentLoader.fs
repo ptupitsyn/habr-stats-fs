@@ -1,4 +1,4 @@
-module HabrCommentsTest.CommentLoader
+module HabrStatsFs.CommentLoader
 
 open System
 open System.Text.RegularExpressions

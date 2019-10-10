@@ -6,13 +6,16 @@ open System.Threading
 [<EntryPoint>]
 let main argv =
     let igniteCfg =
-        new IgniteConfiguration (
+        new IgniteConfiguration(
                 CacheConfiguration = Array.ofList [
                     new CacheConfiguration("comments")
                     new CacheConfiguration("articles")
                 ],
-                DataStorageConfiguration = new DataStorageConfiguration (
-                    DefaultDataRegionConfiguration = new DataRegionConfiguration (PersistenceEnabled = true)
+                DataStorageConfiguration = new DataStorageConfiguration(
+                    DefaultDataRegionConfiguration = new DataRegionConfiguration(
+                            PersistenceEnabled = true,
+                            Name = "defaultPersistentRegion"
+                    )
                 )
             );
 

@@ -14,11 +14,13 @@
         </Content>
         <Compile Include="CommentLoader.fs" />
         <Compile Include="ArticleLoader.fs" />
+        <Compile Include="IgniteStorage.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="FSharp.Data" Version="3.3.2" />
+      <PackageReference Include="Apache.Ignite" Version="2.8.0" />
     </ItemGroup>
 
 </Project>

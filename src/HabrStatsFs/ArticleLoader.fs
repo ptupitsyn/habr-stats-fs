@@ -1,4 +1,4 @@
-module HabrCommentsTest.ArticleLoader
+module HabrStatsFs.ArticleLoader
 
 open FSharp.Data
 

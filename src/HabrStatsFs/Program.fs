@@ -1,4 +1,4 @@
-﻿module HabrCommentsTest.Program
+﻿module HabrStatsFs.Program
 
 open CommentLoader
 

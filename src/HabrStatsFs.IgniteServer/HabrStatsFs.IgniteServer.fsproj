@@ -13,4 +13,8 @@
     <PackageReference Include="Apache.Ignite" Version="2.8.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HabrStatsFs\HabrStatsFs.fsproj" />
+  </ItemGroup>
+
 </Project>

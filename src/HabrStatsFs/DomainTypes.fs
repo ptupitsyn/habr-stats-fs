@@ -1,19 +1,22 @@
 module HabrStatsFs.DomainTypes
 
+open Apache.Ignite.Core.Cache.Configuration
 open System
 open ServiceTypes
 
 type Comment = {
-    Id: int64
-    ParentId: int64
-    Author: string
-    Message: string
-    Score: int64
-    Published: DateTime
-    HasChildren: bool
+    [<QuerySqlField>] Id: int64
+    [<QuerySqlField>] ParentId: int64
+    [<QuerySqlField>] ThreadId: int64
+    [<QuerySqlField>] ArticleId: int64
+    [<QuerySqlField>] Author: string
+    [<QuerySqlField>] Message: string
+    [<QuerySqlField>] Score: int64
+    [<QuerySqlField>] Published: DateTime
+    [<QuerySqlField>] HasChildren: bool
  }
 
-let toComment (comment: Comments.Comment): Comment =
+let toComment (articleId: int64) (comment: Comments.Comment): Comment =
     {
         Id = int64 comment.Id
         ParentId = int64 comment.ParentId
@@ -22,4 +25,6 @@ let toComment (comment: Comments.Comment): Comment =
         Score = int64 (comment.Score)
         Published = comment.TimePublished.LocalDateTime.ToUniversalTime()
         HasChildren = comment.HasChildren
+        ThreadId = int64 comment.Thread
+        ArticleId = articleId
     }

@@ -2,14 +2,14 @@
 open Apache.Ignite.Core.Cache.Configuration
 open Apache.Ignite.Core.Configuration
 open System.Threading
+open HabrStatsFs.DomainTypes
 
 [<EntryPoint>]
 let main argv =
     let igniteCfg =
         new IgniteConfiguration(
                 CacheConfiguration = Array.ofList [
-                    new CacheConfiguration("comments")
-                    new CacheConfiguration("articles")
+                    new CacheConfiguration("comments", new QueryEntity(typeof<Comment>))
                 ],
                 DataStorageConfiguration = new DataStorageConfiguration(
                     DefaultDataRegionConfiguration = new DataRegionConfiguration(

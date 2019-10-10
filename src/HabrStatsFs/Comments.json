@@ -2,18 +2,37 @@
   "data": {
     "comments": [
       {
-        "id": "20737884",
+        "id": "20722097",
         "score": "0",
-        "time_published": "2019-10-10T14:15:15+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Т.е. хэши паролей разработчиков утекали даже в те времена.</p></div>",
+        "time_published": "2019-10-07T14:03:08+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">А если «кошелек» привязан к номеру сотового телефона (СМС при создании кошелька), он анонимный или уже нет? Ведь сотовые должны быть привязаны к личности.</div>",
         "parent_id": "0",
         "level": "0",
         "time_changed": "0",
-        "thread": "20737884",
+        "thread": "20722097",
         "author": {
-          "login": "amarao"
+          "login": "DonArmaturo"
         },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/a4d/28c/40e/a4d28c40e664ad1a3632a3c0a2ca1c72.png",
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20722251",
+        "score": "1",
+        "time_published": "2019-10-07T14:27:16+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Наивные эти ребята из финтеха :)<br/>\r\nЛюди с оружием сказали — «вывернуть карманы и деньги на бочку» — так и будет. То что «эти кошельки могут использоваться для финансирования распространения наркотиков, терроризма и т.д» это всего лишь прикрытие. Обычные деньги используются не хуже для этих делишек.<br/>\r\nСейчас делается попытка поставить под полный контроль хозяев государства все сколько нибудь значимые финансовые и товарные потоки чтобы держать руку на пульсе и каждого гражданина держать за яйца. А они тут со своими дурацкими предложениями…</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "2019-10-07T14:27:47+03:00",
+        "thread": "20722251",
+        "author": {
+          "login": "pvsur"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -21,18 +40,18 @@
         "has_children": true
       },
       {
-        "id": "20737894",
-        "score": "0",
-        "time_published": "2019-10-10T14:17:35+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Раньше об этом особо и не думали</div>",
-        "parent_id": "20737884",
+        "id": "20722561",
+        "score": "1",
+        "time_published": "2019-10-07T15:18:50+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">>каждого <i>неугодного</i> гражданина держать за яйца<br/>\r\nПоправил<br/></div>",
+        "parent_id": "20722251",
         "level": "1",
         "time_changed": "0",
-        "thread": "20737884",
+        "thread": "20722251",
         "author": {
-          "login": "Punk_Joker"
+          "login": "x88"
         },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/97c/e0b/458/97ce0b4583680e0d9dd9b130c231126e.jpg",
+        "avatar": "//habrastorage.org/getpro/habr/avatars/c75/365/346/c75365346bdb4b4cb6c01432ee661bfa.jpg",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -40,18 +59,75 @@
         "has_children": true
       },
       {
-        "id": "20738130",
+        "id": "20722587",
+        "score": "1",
+        "time_published": "2019-10-07T15:24:01+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">неееее… держать каждого. А неугодными граждане становятся по любому чиху — рядом проходил, не в том месте стоял, стаканчик бросил, не на того рот открыл…</div>",
+        "parent_id": "20722561",
+        "level": "2",
+        "time_changed": "0",
+        "thread": "20722251",
+        "author": {
+          "login": "pvsur"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20725131",
+        "score": "0",
+        "time_published": "2019-10-08T06:03:24+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Просто конкурентная борьба</p></div>",
+        "parent_id": "20722251",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20722251",
+        "author": {
+          "login": "Skycaptain"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20722331",
+        "score": "3",
+        "time_published": "2019-10-07T14:37:10+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Киви просит сохранить это для того, чтобы не потерять гигантский рынок отжатия бабла у населения.<br/>\r\nСхема проста — неидентифицированные кошельки блокируются с некоторым количеством денег на них, в причинах пишется «расторжение в одностороннем порядке за нарушение оферты» (это может быть ЛЮБОЙ перевод на ЛЮБОЙ кошелёк или сервис, включая пополнение счета телефона (но не того, на который зарегистрирован кошелёк)), чтобы вернуть ваши кровные, вам нужно…<br/>\r\n<br/>\r\nНотариально заверенную копию паспорта (350-600р), договор с оператором сотовой связи (многие не выдают дубликаты), в последнее время начали запрашивать всякого рода селфи с паспортом, и все это отправить заказным письмом с уведомлением на абонентский ящик (200-250р).<br/>\r\nИ если вы все точно соберете, то может быть через 1.5-2 месяца деньги вам вернут. Замечу, без какой-либо компенсации, что все это время ловко пользовались вашими средствами.<br/>\r\n<br/>\r\nА вот если нет (не соберете или не станете запариваться из-за пятихатки, ведь чтобы вернуть деньги, нужно потратить 500-800р), то (внимание!)… Через какое-то время (полгода вроде) с кошелька начинаются списания за «неактивность» (или завуалировано «за обслуживание счета»). После того, как спишутся все деньги, кошелёк удаляется.<br/>\r\n<br/>\r\nРазумеется, ушлые граждане из киви кровно заинтересованы в том, чтобы народ мог без регистраций и СМС свободно класть как можно больше денег на кошельки, дабы их можно было массово отжимать, ведь если нужны будут регистрации/идентификации, то количество создаваемых кошельков (и денег на них) упадет в лучшем случае в разы.<br/></div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20722331",
+        "author": {
+          "login": "HerrDirektor"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/9ab/1a2/e67/9ab1a2e674c11838c53433e4562fd39b.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722395",
         "score": "4",
-        "time_published": "2019-10-10T14:52:44+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>И сейчас тоже не особо думают.</p></div>",
-        "parent_id": "20737894",
-        "level": "2",
+        "time_published": "2019-10-07T14:47:59+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">+ ко всему, сказанному вами: мне кажется, что бизнес Киви сейчас держится на наркобарыгах и мошенниках-вымогателях. Люди, не связанные с вышеперечисленным давно перешли на онлайн-банки, которые не только не списывают деньги за бездействие, но и начисляют процент на остаток.</div>",
+        "parent_id": "20722331",
+        "level": "1",
         "time_changed": "0",
-        "thread": "20737884",
+        "thread": "20722331",
         "author": {
-          "login": "amarao"
+          "login": "nlykl"
         },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/a4d/28c/40e/a4d28c40e664ad1a3632a3c0a2ca1c72.png",
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -59,16 +135,149 @@
         "has_children": true
       },
       {
-        "id": "20738420",
+        "id": "20722481",
         "score": "0",
-        "time_published": "2019-10-10T15:38:19+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Утечки были, есть и будут всегда. Как раз именно угрозы утечек баз данных паролей породили подход к хранению хэша пароля с солью. Но от короткого пароля, плохого хэша и соли ничего не защитит.</div>",
-        "parent_id": "20738130",
+        "time_published": "2019-10-07T15:03:38+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>бизнес Киви сейчас держится на наркобарыгах и мошенниках-вымогателях. </blockquote><br/>\r\nНе без этого. Но видели бы вы сколько кэша заносят в терминалы в различных шавермачных гости из Средней Азии. Даже если они умеют пользоваться пластиком — кто б им его выдал вместе с онлайн-банкингом? А телефончик пополнять надо.<br/>\r\nКроме того, пока у киви были вменяемые комиссии — на них было выгоднее делать микропереводы.</div>",
+        "parent_id": "20722395",
+        "level": "2",
+        "time_changed": "0",
+        "thread": "20722331",
+        "author": {
+          "login": "ne_kotin"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/854/c13/5f0/854c135f022b906da5e19736efbad9c8.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722687",
+        "score": "0",
+        "time_published": "2019-10-07T15:40:26+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Про вменяемые комиссии. Это следствие другого закона, который обязал проводить все платежи через банк. Плюс онлайн касса. </p></div>",
+        "parent_id": "20722481",
         "level": "3",
-        "time_changed": "2019-10-10T15:38:41+03:00",
-        "thread": "20737884",
+        "time_changed": "0",
+        "thread": "20722331",
         "author": {
-          "login": "Inanity"
+          "login": "loki82"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722913",
+        "score": "0",
+        "time_published": "2019-10-07T16:25:58+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Киви и есть банк, с лицензией ЦБ.</div>",
+        "parent_id": "20722687",
+        "level": "4",
+        "time_changed": "0",
+        "thread": "20722331",
+        "author": {
+          "login": "HerrDirektor"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/9ab/1a2/e67/9ab1a2e674c11838c53433e4562fd39b.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20722759",
+        "score": "0",
+        "time_published": "2019-10-07T15:53:24+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Люди, не связанные с вышеперечисленным давно перешли на онлайн-банки, которые не только не списывают деньги за бездействие, но и начисляют процент на остаток.</blockquote><br/>\r\nЭм. Вообще-то найти банк, который просто так позволит вам держать операционный счёт без движения — далеко не просто. Обычно для бесплатности обслуживания счёта требуются какие-то обороты (т.е. активность), или же объем собственных средств (т.е. де-факто депозит).</div>",
+        "parent_id": "20722395",
+        "level": "2",
+        "time_changed": "2019-10-07T15:54:13+03:00",
+        "thread": "20722331",
+        "author": {
+          "login": "JustDont"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722811",
+        "score": "0",
+        "time_published": "2019-10-07T16:10:33+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Никто из банков не снимает по 10 рублей в день после полугода неактивности, как это делает Киви. Полностью бесплатные банковские карты тоже есть: у меня сейчас их две, у одной из них подобие кэшбэка и процент на остаток, у другой можно в пару кликов перевести деньги на вклад с возможностью снятия и пополнения. Ещё есть Моментум Сбербанка, но с ним иметь дело не хочется.</div>",
+        "parent_id": "20722759",
+        "level": "3",
+        "time_changed": "2019-10-07T16:12:16+03:00",
+        "thread": "20722331",
+        "author": {
+          "login": "nlykl"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722841",
+        "score": "0",
+        "time_published": "2019-10-07T16:16:09+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>Никто из банков не снимает по 10 рублей в день после полугода неактивности, как это делает Киви.</blockquote><br/>\r\nИменно так — нет. По-другому — да сколько угодно. И постепенно списать все деньги за обслуживание операционного счета, который из-за неактивности стал небесплатным (а потом еще и долги начать насчитывать), и списать остатки по счетам «в никуда» (на благотворительность или еще куда).<br/>\r\n<br/>\r\n<blockquote>Полностью бесплатные банковские карты тоже есть</blockquote><br/>\r\nОбращаю ваше внимание на то, что банковские карты заведомо не вечные, и «полностью бесплатные» из них обычно не подлежат перевыпуску без ваших действий; плюс именно с полностью бесплатных карт остаток чаще всего и списывается «в никуда» через некоторое время после просрочки карты.</div>",
+        "parent_id": "20722811",
+        "level": "4",
+        "time_changed": "2019-10-07T16:17:37+03:00",
+        "thread": "20722331",
+        "author": {
+          "login": "JustDont"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722899",
+        "score": "0",
+        "time_published": "2019-10-07T16:25:01+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Не пользуюсь платными картами уже 7 лет, ни разу ничего не списывалось.</div>",
+        "parent_id": "20722841",
+        "level": "5",
+        "time_changed": "0",
+        "thread": "20722331",
+        "author": {
+          "login": "nlykl"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20722955",
+        "score": "0",
+        "time_published": "2019-10-07T16:33:27+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>уже 7 лет</blockquote><br/>\r\nДа и не сможете в общем-то, поскольку они у вас за 7 лет будут все просрочены.</div>",
+        "parent_id": "20722899",
+        "level": "6",
+        "time_changed": "2019-10-07T16:33:45+03:00",
+        "thread": "20722331",
+        "author": {
+          "login": "JustDont"
         },
         "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
@@ -78,37 +287,18 @@
         "has_children": false
       },
       {
-        "id": "20737898",
-        "score": "3",
-        "time_published": "2019-10-10T14:17:49+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>длиной пароля максимум 8 символов</blockquote><br/>\r\n<blockquote>ZghOT0eRm4U9s:p/q2-q4!</blockquote><br/>\r\nэто как?</div>",
-        "parent_id": "0",
-        "level": "0",
-        "time_changed": "0",
-        "thread": "20737898",
-        "author": {
-          "login": "Aquahawk"
-        },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": true
-      },
-      {
-        "id": "20737900",
-        "score": "18",
-        "time_published": "2019-10-10T14:19:33+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">хеш: ZghOT0eRm4U9s<br/>\r\nпароль: p/q2-q4!</div>",
-        "parent_id": "20737898",
+        "id": "20722827",
+        "score": "0",
+        "time_published": "2019-10-07T16:13:05+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>неидентифицированные кошельки блокируются с некоторым количеством денег на них</blockquote><br/>\r\nА что им помешает блокировать идентифицированные кошельки по надуманным поводам? При этом также могут потребовать все те же документы — дабы убедится что кошелёк всё ещё под управлением его открывателя.<br/></div>",
+        "parent_id": "20722331",
         "level": "1",
         "time_changed": "0",
-        "thread": "20737898",
+        "thread": "20722331",
         "author": {
-          "login": "opxocc"
+          "login": "Tangeman"
         },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/426/a3f/5f8/426a3f5f81173840e4b9a781d881a569.jpg",
+        "avatar": "//habrastorage.org/getpro/habr/avatars/833/a34/ccd/833a34ccd8a7af79e339c2bc2ea1dbde.png",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -116,18 +306,18 @@
         "has_children": true
       },
       {
-        "id": "20738012",
-        "score": "2",
-        "time_published": "2019-10-10T14:35:19+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">понял</div>",
-        "parent_id": "20737900",
+        "id": "20722891",
+        "score": "0",
+        "time_published": "2019-10-07T16:24:27+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Да, с идентифицированными кошельками все то же самое, но! Основной расчет именно на no-ID кошельки, пользователями которых в большинстве своём являются наши дорогие гости из Азии (которые по-русски говорят с трудом), да всякого рода мелкие наркоши/мошенники/итп, которым светить свой паспорт нет возможности/желания, либо нет возможности предоставить тот же договор с оператором (т.к. симки покупаются через барыг). <br/>\r\nДа и суммы обычно у такого контингента мелкие, на которые скорее всего «махнут рукой».</div>",
+        "parent_id": "20722827",
         "level": "2",
         "time_changed": "0",
-        "thread": "20737898",
+        "thread": "20722331",
         "author": {
-          "login": "Aquahawk"
+          "login": "HerrDirektor"
         },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "avatar": "//habrastorage.org/getpro/habr/avatars/9ab/1a2/e67/9ab1a2e674c11838c53433e4562fd39b.jpg",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -135,111 +325,16 @@
         "has_children": false
       },
       {
-        "id": "20737904",
+        "id": "20722951",
         "score": "0",
-        "time_published": "2019-10-10T14:19:55+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">это пара хеш: пароль</div>",
-        "parent_id": "20737898",
+        "time_published": "2019-10-07T16:33:10+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Истину глаголешь, HerrDirektor!<br/>\r\n<br/>\r\nУ меня Qiwi заблокировал кошелек с 1200. Ничего криминального они предъявить не смогли, просто у их СБ «есть подозрения». Ни финансирования ИГИЛ, ни финансирования Навального у меня не было, лишь покупки на Али. Qiwi тупо блокировал меня за частую смену IP адресов (я пользуюсь Opera VPN и Opera Turbo).<br/>\r\nУ меня был абсолютно легальный анонимный базовый статус без верификации и это меня устраивало. А теперь qiwi ТРЕБУЮТ сделать полную верификацию и предоставить:<br/>\r\n– Договор с сотовым оператором<br/>\r\n– Фото с паспортом в руках<br/>\r\n– Экономическое обоснование операций (WTF?)<br/>\r\n<br/>\r\nМой сотовый оформлен не на меня. И через время они начнут списывать мои денежки за неактивность счета. Фактически, мои денежки украл Qiwi.<br/>\r\n<br/>\r\nПришлось сделать бесплатную дебетовую карту в альфе (дают сразу), еще можно сделать в сбере. Альфа может делать дополнительные виртуальные карты за 49 р. (сбер вроде берет 60р). Но курсы конвертации у них лучше чем в Киви.<br/>\r\nЕще вариант — бесплатная Кукуруза в Связном (дают сразу), тоже с хорошими курсами, но виртуалок они не выпускают.</div>",
+        "parent_id": "20722331",
         "level": "1",
-        "time_changed": "0",
-        "thread": "20737898",
+        "time_changed": "2019-10-07T17:00:12+03:00",
+        "thread": "20722331",
         "author": {
-          "login": "Wexter"
-        },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20737910",
-        "score": "2",
-        "time_published": "2019-10-10T14:20:20+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Слева от двоеточия — хэш, после — пароль.<br/>\r\n(Я буду обновлять комментарии)</div>",
-        "parent_id": "20737898",
-        "level": "1",
-        "time_changed": "2019-10-10T14:20:34+03:00",
-        "thread": "20737898",
-        "author": {
-          "login": "DCNick3"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/8b0/158/711/8b01587113d8dd100b7d13e8df06ce0e.png",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20737946",
-        "score": "7",
-        "time_published": "2019-10-10T14:25:51+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как хорошо, что перед отправкой ответа решил обновить страницу:)</div>",
-        "parent_id": "20737898",
-        "level": "1",
-        "time_changed": "0",
-        "thread": "20737898",
-        "author": {
-          "login": "konshyn"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/291/9b7/afc/2919b7afcfccef67e2f794b620e5fdac.png",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20737960",
-        "score": "9",
-        "time_published": "2019-10-10T14:28:08+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Лучше как-то более явно выделить сам пароль: <b>p/q2-q4!</b>.<br/>\r\nЯ лично тупил смотря на хеш :)</div>",
-        "parent_id": "0",
-        "level": "0",
-        "time_changed": "0",
-        "thread": "20737960",
-        "author": {
-          "login": "GCU"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/076/cc4/672/076cc4672e8648945038a02c556ae516.gif",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": true
-      },
-      {
-        "id": "20739214",
-        "score": "0",
-        "time_published": "2019-10-10T17:39:12+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><em>НЛО прилетело и опубликовало эту надпись здесь</em></p></div>",
-        "parent_id": "20737960",
-        "level": "1",
-        "time_changed": "2019-10-10T17:40:04+03:00",
-        "thread": "20737960",
-        "author": {
-          "login": "WhiteBlackGoose"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/72c/2d6/a35/72c2d6a35f98984d1caca7907772a61d.png",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20737962",
-        "score": "0",
-        "time_published": "2019-10-10T14:28:34+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Сне интересно: почему ни кто еще не посчитал все возможные хеши для crypt(3)?<br/>\r\nЕсли подбор пароля это 4 дня, то за пару месяцев можно сосчитать все возможные комбинации… А если запараллелить...</p></div>",
-        "parent_id": "0",
-        "level": "0",
-        "time_changed": "0",
-        "thread": "20737962",
-        "author": {
-          "login": "HellKaim"
+          "login": "Amistad"
         },
         "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
@@ -249,35 +344,16 @@
         "has_children": true
       },
       {
-        "id": "20738000",
+        "id": "20723187",
         "score": "0",
-        "time_published": "2019-10-10T14:33:12+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>или запустить в облаке....</p></div>",
-        "parent_id": "20737962",
-        "level": "1",
+        "time_published": "2019-10-07T17:13:20+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Ещё в сбербанк онлайн за пару минут виртуальную карту можно сделать, но по идее должна быть хоть какая то пластиковая, хоть бесплатная моментум выдаваемая в любом отделении за 20-30мин.</div>",
+        "parent_id": "20722951",
+        "level": "2",
         "time_changed": "0",
-        "thread": "20737962",
+        "thread": "20722331",
         "author": {
-          "login": "time2rfc"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/e64/117/cef/e64117cefc7cadfb1da09ce6604e42be.jpg",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20738192",
-        "score": "1",
-        "time_published": "2019-10-10T15:03:00+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Возможно потому, что их быстрее пересчитать, чем загружать с диска/по сети? 930MH/с — это 12*930*10^6 byte/s = 11.16 GBps. Конечно, посчитанные хеши можно отсортировать, что бы их быстрее было искать, но их всё равно придётся где-то хранить, а это 11.16 GB/s * 4*24*60*60s ~= 4 PB.</div>",
-        "parent_id": "20737962",
-        "level": "1",
-        "time_changed": "2019-10-10T15:05:12+03:00",
-        "thread": "20737962",
-        "author": {
-          "login": "DaylightIsBurning"
+          "login": "mig126"
         },
         "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
@@ -287,35 +363,16 @@
         "has_children": false
       },
       {
-        "id": "20738076",
-        "score": "3",
-        "time_published": "2019-10-10T14:44:44+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>сорок тысяч обезьян в ж...</blockquote></div>",
-        "parent_id": "0",
-        "level": "0",
+        "id": "20723665",
+        "score": "0",
+        "time_published": "2019-10-07T18:26:42+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Справедливости ради, я не очень понимаю, как можно \"пользоваться\" вашими 500 рублями. И что мешает пользоваться ими без блокировки кошелька.</p></div>",
+        "parent_id": "20722331",
+        "level": "1",
         "time_changed": "0",
-        "thread": "20738076",
+        "thread": "20722331",
         "author": {
-          "login": "trapwalker"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/514/318/929/514318929f3d20388b21706d20ae4ac5.jpg",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20738264",
-        "score": "8",
-        "time_published": "2019-10-10T15:13:49+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Дополню (для тех, кто не найдет на шахматной доске вертикаль \"q\"): это ход, записанный в старой английской описательной нотации (descriptive notation — она была популярна до 80-х годов в англоязычных странах, но сейчас почти не используется), где вертикали обознаались не буквами по порядку, а названиями фигур, которые в начальном положении на них стоят. Соответственно, Q — значит <em>queen</em>, т.е. королева или же ферзь. То есть, в \"нашей\" современной нотации (т.н. алгебраической — algebraic notation) ход будет записываться как <strong>d2-d4</strong> (либо <strong>d7-d5</strong>, если это ход черных — \"у них\" каждый игрок нумеровал горизонтали от себя).</p></div>",
-        "parent_id": "0",
-        "level": "0",
-        "time_changed": "2019-10-10T15:15:33+03:00",
-        "thread": "20738264",
-        "author": {
-          "login": "trolley813"
+          "login": "Sabubu"
         },
         "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
@@ -325,16 +382,35 @@
         "has_children": true
       },
       {
-        "id": "20738654",
+        "id": "20723751",
         "score": "0",
-        "time_published": "2019-10-10T16:10:53+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Помню, в школьные годы имел дело с шахматной программой (консольной, естественно) для мини-ЭВМ семейства PDP-11. Там ходы полагалось вводить именно в такой вот описательной нотации. Пришлось освоить ;)</div>",
-        "parent_id": "20738264",
+        "time_published": "2019-10-07T18:43:04+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Примерно так же, как вы можете пользоваться грейс-периодом на кредитке. В киви он составляет 25 дней «на рассмотрение документов» и 45 дней на «выплату остатка», итого 70 дней.<br/>\r\nА без блокировки есть риск, что я завтра затребую свои 500р со счета в надежде их потратить. <br/>\r\n<br/>\r\nКогда счет таким условным 500-рублевым счетам идет на сотни тысяч, в итоге получается немалая сумма с бесплатным грейс-периодом в ~2.5 месяца.</div>",
+        "parent_id": "20723665",
+        "level": "2",
+        "time_changed": "0",
+        "thread": "20722331",
+        "author": {
+          "login": "HerrDirektor"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/9ab/1a2/e67/9ab1a2e674c11838c53433e4562fd39b.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20726182",
+        "score": "0",
+        "time_published": "2019-10-08T12:03:24+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Вот еще было на Хабре: <a href=\"https://habr.com/ru/post/434890/\">habr.com/ru/post/434890</a><br/>\r\nИ именно с этим я столкнулся раньше.<br/>\r\nНе великая сумма была, с тех пор пользоваться qiwi не имею желания.</div>",
+        "parent_id": "20722331",
         "level": "1",
         "time_changed": "0",
-        "thread": "20738264",
+        "thread": "20722331",
         "author": {
-          "login": "WinPooh73"
+          "login": "goga_kk"
         },
         "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
         "is_favorite": false,
@@ -344,37 +420,18 @@
         "has_children": false
       },
       {
-        "id": "20738308",
-        "score": "6",
-        "time_published": "2019-10-10T15:19:11+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Вот и поди пойми все вопросы о сложностях паролей. Восемь символов ради фана брутилось кучей людей с 2014 года, а в результате оказалось, что это не случайный набор символов, а осознанное, имеющее смысл значение, каких все рекомендуют избегать по причине упрощённого их взлома.</div>",
+        "id": "20724405",
+        "score": "0",
+        "time_published": "2019-10-07T21:51:56+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">И тут на арене потихоньку начинают появлятся стейблкоины.</div>",
         "parent_id": "0",
         "level": "0",
         "time_changed": "0",
-        "thread": "20738308",
+        "thread": "20724405",
         "author": {
-          "login": "Lopar"
+          "login": "Mitch"
         },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/f9e/5ad/8a3/f9e5ad8a330515a43be955b79f927480.jpg",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": true
-      },
-      {
-        "id": "20738452",
-        "score": "1",
-        "time_published": "2019-10-10T15:41:28+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Для человека, далекого от шахмат — вполне себе случайный.</div>",
-        "parent_id": "20738308",
-        "level": "1",
-        "time_changed": "2019-10-10T15:41:40+03:00",
-        "thread": "20738308",
-        "author": {
-          "login": "technomancer"
-        },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "avatar": "//habrastorage.org/getpro/habr/avatars/3d2/8b7/7a8/3d28b77a83a411958c95eeb8109e7e6a.jpg",
         "is_favorite": false,
         "is_can_vote": false,
         "isAuthor": false,
@@ -382,61 +439,12 @@
         "has_children": false
       },
       {
-        "id": "20738980",
-        "score": "0",
-        "time_published": "2019-10-10T16:59:01+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Ну это же классика: <a href=\"https://xkcd.com/936/\">https://xkcd.com/936/</a> (и на русском: <a href=\"https://xkcd.ru/936/\">https://xkcd.ru/936/</a>)</p></div>",
-        "parent_id": "20738308",
-        "level": "1",
-        "time_changed": "0",
-        "thread": "20738308",
-        "author": {
-          "login": "Envek"
-        },
-        "avatar": "//habrastorage.org/getpro/habr/avatars/cf9/7ff/df8/cf97ffdf8a1a39e8d0d66fa14dc6d0d8.jpg",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20738612",
-        "score": "0",
-        "time_published": "2019-10-10T16:05:53+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Хороший способ придумывать запоминающиеся пароли, если вы шахматист.<br/>\r\nНесколько первых ходов какого-нибудь дебютного варианта:<br/>\r\n<br/>\r\ne4e5Nf3Nc6Bb5<br/>\r\nd4d5c4e6Nf3<br/>\r\nf4e6g4?Qh4#!<br/>\r\n<br/>\r\nХотя, строго говоря, все эти пароли можно рассматривать как словарные.</div>",
+        "id": "20726184",
         "parent_id": "0",
+        "user_deactivated": 1,
         "level": "0",
-        "time_changed": "2019-10-10T16:07:09+03:00",
-        "thread": "20738612",
-        "author": {
-          "login": "WinPooh73"
-        },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
-      },
-      {
-        "id": "20739008",
-        "score": "0",
-        "time_published": "2019-10-10T17:03:29+03:00",
-        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">> q2-q4<br/>\r\n<br/>\r\n<blockquote>Тебе снится рыбалка у коралловых рифов,<br/>\r\n Неизвестный герой древнегреческих мифов.<br/>\r\n Молекулярная физика, энергия атома,<br/>\r\n Обнаженная женщина, киллер с лопатой.<br/>\r\n<br/>\r\nНовогодняя елка, орбитальная станция,<br/>\r\n Мыльница с музыкой, радио с танцами,</blockquote><br/>\r\n<br/>\r\nсмайл, в общем</div>",
-        "parent_id": "0",
-        "level": "0",
-        "time_changed": "0",
-        "thread": "20739008",
-        "author": {
-          "login": "aol-nnov"
-        },
-        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
-        "is_favorite": false,
-        "is_can_vote": false,
-        "isAuthor": false,
-        "vote": null,
-        "has_children": false
+        "has_children": false,
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">undefined</div>"
       }
     ],
     "freshComments": [],

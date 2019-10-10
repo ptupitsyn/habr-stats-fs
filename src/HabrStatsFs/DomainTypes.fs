@@ -24,11 +24,11 @@ let toComment (articleId: int64) (comment: Comments.Comment): Comment =
     {
         Id = int64 comment.Id
         ParentId = int64 comment.ParentId
-        Author = comment.Author.Login
+        Author = comment.Author.Value.Login
         Message = comment.Message
-        Score = int64 (comment.Score)
-        Published = comment.TimePublished.LocalDateTime.ToUniversalTime()
+        Score = int64 (comment.Score.Value)
+        Published = comment.TimePublished.Value.LocalDateTime.ToUniversalTime()
         HasChildren = comment.HasChildren
-        ThreadId = int64 comment.Thread
+        ThreadId = int64 comment.Thread.Value
         ArticleId = articleId
     }

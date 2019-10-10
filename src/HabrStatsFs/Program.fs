@@ -7,6 +7,7 @@ open IgniteStorage
 let main argv =
     let articleId = int64 470966;
 
-    loadComments articleId |> saveComments |> ignore
+    loadComments articleId |> saveComments
+    articleId |> saveArticle
 
     0

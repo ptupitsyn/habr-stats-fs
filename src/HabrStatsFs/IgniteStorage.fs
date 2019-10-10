@@ -1,4 +1,5 @@
 module HabrStatsFs.IgniteStorage
+open System
 open System.Collections.Generic
 open Apache.Ignite.Core
 open Apache.Ignite.Core.Client
@@ -11,8 +12,11 @@ let getClient() =
 let client = getClient()
 
 let commentsCache = client.GetCache<int64, Comment> "comments"
+let articlesCache = client.GetCache<int64, Article> "comments"
 
 let saveComments (comments: seq<Comment>) =
     let commentsMap = comments |> Seq.map (fun c -> KeyValuePair.Create(c.Id, c))
     commentsCache.PutAll commentsMap
-    None
+
+let saveArticle id =
+    articlesCache.Put (id, {LastFetched = DateTime.UtcNow})

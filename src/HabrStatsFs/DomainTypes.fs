@@ -16,6 +16,10 @@ type Comment = {
     [<QuerySqlField>] HasChildren: bool
  }
 
+type Article = {
+    LastFetched: DateTime
+}
+
 let toComment (articleId: int64) (comment: Comments.Comment): Comment =
     {
         Id = int64 comment.Id

@@ -10,6 +10,7 @@ let main argv =
         new IgniteConfiguration(
                 CacheConfiguration = Array.ofList [
                     new CacheConfiguration("comments", new QueryEntity(typeof<Comment>))
+                    new CacheConfiguration("articles")
                 ],
                 DataStorageConfiguration = new DataStorageConfiguration(
                     DefaultDataRegionConfiguration = new DataRegionConfiguration(

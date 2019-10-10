@@ -12,7 +12,7 @@ let getClient() =
 let client = getClient()
 
 let commentsCache = client.GetCache<int64, Comment> "comments"
-let articlesCache = client.GetCache<int64, Article> "comments"
+let articlesCache = client.GetCache<int64, Article> "articles"
 
 let saveComments (comments: seq<Comment>) =
     let commentsMap = comments |> Seq.map (fun c -> KeyValuePair.Create(c.Id, c))

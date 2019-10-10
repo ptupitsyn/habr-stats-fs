@@ -1,0 +1,447 @@
+{
+  "data": {
+    "comments": [
+      {
+        "id": "20737884",
+        "score": "0",
+        "time_published": "2019-10-10T14:15:15+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Т.е. хэши паролей разработчиков утекали даже в те времена.</p></div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20737884",
+        "author": {
+          "login": "amarao"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/a4d/28c/40e/a4d28c40e664ad1a3632a3c0a2ca1c72.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20737894",
+        "score": "0",
+        "time_published": "2019-10-10T14:17:35+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Раньше об этом особо и не думали</div>",
+        "parent_id": "20737884",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20737884",
+        "author": {
+          "login": "Punk_Joker"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/97c/e0b/458/97ce0b4583680e0d9dd9b130c231126e.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738130",
+        "score": "4",
+        "time_published": "2019-10-10T14:52:44+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>И сейчас тоже не особо думают.</p></div>",
+        "parent_id": "20737894",
+        "level": "2",
+        "time_changed": "0",
+        "thread": "20737884",
+        "author": {
+          "login": "amarao"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/a4d/28c/40e/a4d28c40e664ad1a3632a3c0a2ca1c72.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738420",
+        "score": "0",
+        "time_published": "2019-10-10T15:38:19+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Утечки были, есть и будут всегда. Как раз именно угрозы утечек баз данных паролей породили подход к хранению хэша пароля с солью. Но от короткого пароля, плохого хэша и соли ничего не защитит.</div>",
+        "parent_id": "20738130",
+        "level": "3",
+        "time_changed": "2019-10-10T15:38:41+03:00",
+        "thread": "20737884",
+        "author": {
+          "login": "Inanity"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737898",
+        "score": "3",
+        "time_published": "2019-10-10T14:17:49+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>длиной пароля максимум 8 символов</blockquote><br/>\r\n<blockquote>ZghOT0eRm4U9s:p/q2-q4!</blockquote><br/>\r\nэто как?</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20737898",
+        "author": {
+          "login": "Aquahawk"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20737900",
+        "score": "18",
+        "time_published": "2019-10-10T14:19:33+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">хеш: ZghOT0eRm4U9s<br/>\r\nпароль: p/q2-q4!</div>",
+        "parent_id": "20737898",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20737898",
+        "author": {
+          "login": "opxocc"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/426/a3f/5f8/426a3f5f81173840e4b9a781d881a569.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738012",
+        "score": "2",
+        "time_published": "2019-10-10T14:35:19+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">понял</div>",
+        "parent_id": "20737900",
+        "level": "2",
+        "time_changed": "0",
+        "thread": "20737898",
+        "author": {
+          "login": "Aquahawk"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737904",
+        "score": "0",
+        "time_published": "2019-10-10T14:19:55+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">это пара хеш: пароль</div>",
+        "parent_id": "20737898",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20737898",
+        "author": {
+          "login": "Wexter"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737910",
+        "score": "2",
+        "time_published": "2019-10-10T14:20:20+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Слева от двоеточия — хэш, после — пароль.<br/>\r\n(Я буду обновлять комментарии)</div>",
+        "parent_id": "20737898",
+        "level": "1",
+        "time_changed": "2019-10-10T14:20:34+03:00",
+        "thread": "20737898",
+        "author": {
+          "login": "DCNick3"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/8b0/158/711/8b01587113d8dd100b7d13e8df06ce0e.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737946",
+        "score": "7",
+        "time_published": "2019-10-10T14:25:51+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Как хорошо, что перед отправкой ответа решил обновить страницу:)</div>",
+        "parent_id": "20737898",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20737898",
+        "author": {
+          "login": "konshyn"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/291/9b7/afc/2919b7afcfccef67e2f794b620e5fdac.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737960",
+        "score": "9",
+        "time_published": "2019-10-10T14:28:08+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Лучше как-то более явно выделить сам пароль: <b>p/q2-q4!</b>.<br/>\r\nЯ лично тупил смотря на хеш :)</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20737960",
+        "author": {
+          "login": "GCU"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/076/cc4/672/076cc4672e8648945038a02c556ae516.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20739214",
+        "score": "0",
+        "time_published": "2019-10-10T17:39:12+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><em>НЛО прилетело и опубликовало эту надпись здесь</em></p></div>",
+        "parent_id": "20737960",
+        "level": "1",
+        "time_changed": "2019-10-10T17:40:04+03:00",
+        "thread": "20737960",
+        "author": {
+          "login": "WhiteBlackGoose"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/72c/2d6/a35/72c2d6a35f98984d1caca7907772a61d.png",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20737962",
+        "score": "0",
+        "time_published": "2019-10-10T14:28:34+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Сне интересно: почему ни кто еще не посчитал все возможные хеши для crypt(3)?<br/>\r\nЕсли подбор пароля это 4 дня, то за пару месяцев можно сосчитать все возможные комбинации… А если запараллелить...</p></div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20737962",
+        "author": {
+          "login": "HellKaim"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738000",
+        "score": "0",
+        "time_published": "2019-10-10T14:33:12+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>или запустить в облаке....</p></div>",
+        "parent_id": "20737962",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20737962",
+        "author": {
+          "login": "time2rfc"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/e64/117/cef/e64117cefc7cadfb1da09ce6604e42be.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738192",
+        "score": "1",
+        "time_published": "2019-10-10T15:03:00+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Возможно потому, что их быстрее пересчитать, чем загружать с диска/по сети? 930MH/с — это 12*930*10^6 byte/s = 11.16 GBps. Конечно, посчитанные хеши можно отсортировать, что бы их быстрее было искать, но их всё равно придётся где-то хранить, а это 11.16 GB/s * 4*24*60*60s ~= 4 PB.</div>",
+        "parent_id": "20737962",
+        "level": "1",
+        "time_changed": "2019-10-10T15:05:12+03:00",
+        "thread": "20737962",
+        "author": {
+          "login": "DaylightIsBurning"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738076",
+        "score": "3",
+        "time_published": "2019-10-10T14:44:44+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><blockquote>сорок тысяч обезьян в ж...</blockquote></div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20738076",
+        "author": {
+          "login": "trapwalker"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/514/318/929/514318929f3d20388b21706d20ae4ac5.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738264",
+        "score": "8",
+        "time_published": "2019-10-10T15:13:49+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Дополню (для тех, кто не найдет на шахматной доске вертикаль \"q\"): это ход, записанный в старой английской описательной нотации (descriptive notation — она была популярна до 80-х годов в англоязычных странах, но сейчас почти не используется), где вертикали обознаались не буквами по порядку, а названиями фигур, которые в начальном положении на них стоят. Соответственно, Q — значит <em>queen</em>, т.е. королева или же ферзь. То есть, в \"нашей\" современной нотации (т.н. алгебраической — algebraic notation) ход будет записываться как <strong>d2-d4</strong> (либо <strong>d7-d5</strong>, если это ход черных — \"у них\" каждый игрок нумеровал горизонтали от себя).</p></div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "2019-10-10T15:15:33+03:00",
+        "thread": "20738264",
+        "author": {
+          "login": "trolley813"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738654",
+        "score": "0",
+        "time_published": "2019-10-10T16:10:53+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Помню, в школьные годы имел дело с шахматной программой (консольной, естественно) для мини-ЭВМ семейства PDP-11. Там ходы полагалось вводить именно в такой вот описательной нотации. Пришлось освоить ;)</div>",
+        "parent_id": "20738264",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20738264",
+        "author": {
+          "login": "WinPooh73"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738308",
+        "score": "6",
+        "time_published": "2019-10-10T15:19:11+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Вот и поди пойми все вопросы о сложностях паролей. Восемь символов ради фана брутилось кучей людей с 2014 года, а в результате оказалось, что это не случайный набор символов, а осознанное, имеющее смысл значение, каких все рекомендуют избегать по причине упрощённого их взлома.</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20738308",
+        "author": {
+          "login": "Lopar"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/f9e/5ad/8a3/f9e5ad8a330515a43be955b79f927480.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": true
+      },
+      {
+        "id": "20738452",
+        "score": "1",
+        "time_published": "2019-10-10T15:41:28+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Для человека, далекого от шахмат — вполне себе случайный.</div>",
+        "parent_id": "20738308",
+        "level": "1",
+        "time_changed": "2019-10-10T15:41:40+03:00",
+        "thread": "20738308",
+        "author": {
+          "login": "technomancer"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738980",
+        "score": "0",
+        "time_published": "2019-10-10T16:59:01+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p>Ну это же классика: <a href=\"https://xkcd.com/936/\">https://xkcd.com/936/</a> (и на русском: <a href=\"https://xkcd.ru/936/\">https://xkcd.ru/936/</a>)</p></div>",
+        "parent_id": "20738308",
+        "level": "1",
+        "time_changed": "0",
+        "thread": "20738308",
+        "author": {
+          "login": "Envek"
+        },
+        "avatar": "//habrastorage.org/getpro/habr/avatars/cf9/7ff/df8/cf97ffdf8a1a39e8d0d66fa14dc6d0d8.jpg",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20738612",
+        "score": "0",
+        "time_published": "2019-10-10T16:05:53+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Хороший способ придумывать запоминающиеся пароли, если вы шахматист.<br/>\r\nНесколько первых ходов какого-нибудь дебютного варианта:<br/>\r\n<br/>\r\ne4e5Nf3Nc6Bb5<br/>\r\nd4d5c4e6Nf3<br/>\r\nf4e6g4?Qh4#!<br/>\r\n<br/>\r\nХотя, строго говоря, все эти пароли можно рассматривать как словарные.</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "2019-10-10T16:07:09+03:00",
+        "thread": "20738612",
+        "author": {
+          "login": "WinPooh73"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      },
+      {
+        "id": "20739008",
+        "score": "0",
+        "time_published": "2019-10-10T17:03:29+03:00",
+        "message": "<div xmlns=\"http://www.w3.org/1999/xhtml\">> q2-q4<br/>\r\n<br/>\r\n<blockquote>Тебе снится рыбалка у коралловых рифов,<br/>\r\n Неизвестный герой древнегреческих мифов.<br/>\r\n Молекулярная физика, энергия атома,<br/>\r\n Обнаженная женщина, киллер с лопатой.<br/>\r\n<br/>\r\nНовогодняя елка, орбитальная станция,<br/>\r\n Мыльница с музыкой, радио с танцами,</blockquote><br/>\r\n<br/>\r\nсмайл, в общем</div>",
+        "parent_id": "0",
+        "level": "0",
+        "time_changed": "0",
+        "thread": "20739008",
+        "author": {
+          "login": "aol-nnov"
+        },
+        "avatar": "https://habr.com/images/avatars/stub-user-middle.gif",
+        "is_favorite": false,
+        "is_can_vote": false,
+        "isAuthor": false,
+        "vote": null,
+        "has_children": false
+      }
+    ],
+    "freshComments": [],
+    "last": 0,
+    "isCanComment": false
+  },
+  "success": true
+}

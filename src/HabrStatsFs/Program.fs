@@ -10,13 +10,13 @@ let main argv =
 
     let processArticle (articleId: int64) =
         if (articleLoaded articleId) then
-            printf "Article exists: %i" articleId
+            printf "\nArticle exists: %i" articleId
         else
-            printf "Processing article: %i" articleId
+            printf "\nProcessing article: %i" articleId
             loadComments articleId |> saveComments
             articleId |> saveArticle
 
-    seq {maxArticleId .. int64 0}
+    seq {maxArticleId .. int64 -1 .. int64 0}
         |> Seq.iter processArticle
 
     0

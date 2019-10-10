@@ -21,6 +21,8 @@ let main argv =
 
     use ignite = Ignition.Start igniteCfg
 
+    ignite.GetCluster().SetActive true
+
     Thread.Sleep(Timeout.Infinite)
 
     0

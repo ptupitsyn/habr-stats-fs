@@ -20,3 +20,5 @@ let saveComments (comments: seq<Comment>) =
 
 let saveArticle id =
     articlesCache.Put (id, {LastFetched = DateTime.UtcNow})
+
+let articleLoaded = articlesCache.ContainsKey

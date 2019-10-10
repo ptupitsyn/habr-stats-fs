@@ -2,9 +2,7 @@ module HabrStatsFs.CommentLoader
 
 open System
 open System.Text.RegularExpressions
-open FSharp.Data
-
-type Comments = JsonProvider<"Comments.json">
+open ServiceTypes
 
 let loadComments articleId =
     let url = sprintf "https://m.habr.com/kek/v1/articles/%i/comments?fl=ru&hl=ru" articleId
